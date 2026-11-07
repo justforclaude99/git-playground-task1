@@ -1,6 +1,6 @@
 Prediction:
 I changed a variable name and updated config.
-Claude's summary (prompt: "Summarize what I've changed, and flag anything that looks unintended."):
+Claude's summary :
 
 Changes against main (3 files modified, 1 untracked):
 - NOTES.md (new): contains the prediction "I changed a variable name and updated config."
